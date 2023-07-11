@@ -1,4 +1,4 @@
-# Paternalmito Matlab codes for imaging analysis related to paternal mitochondria
+# Paternalmito----Matlab codes for imaging analysis related to paternal mitochondria
 
 ---Analysis1:Tracking of the posterior boundary of NMY-2::GFP and paternal mitochondria in the zygote
 We used a three-step analysis of two-channel time-lapse movies to track the average X coordinates (along the A-P axis) of paternal mitochondria and the X coordinates of the posterior boundary of NMY-2::GFP patches in each embryo. 
